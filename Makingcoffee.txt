@@ -1,0 +1,30 @@
+/* Decide to make a cup of coffee in Mocha pot
+Walk to the kitchen
+Pick up a washed mocha pot
+if not washed
+wash mocha pot in the sink
+get coffee powder from pantry, spoon from the cupboard
+Open the Mocha pot, fill up with water untill its full
+Add 4 spoons of coffee powder to the pot
+close the lid
+Turn on the stove
+Place Mocha pot on the stove
+STEP 12: Check if coffee is brewed 
+if brewed,
+remove mocha pot from the stove
+turn off the stove
+else repeat step 12
+put coffee powder back in pantry
+Wash spoon in the sink, put it back in the cupboard
+Pick up coffee mug from the cupboard
+Add brewed coffee to the mug
+If sugar is needed
+pick up sugar pot from cupboard,
+add as much needed in the coffee mug
+stir the coffee
+put sugar pot back in the cupboard
+if milk is needed
+open the fridge, pick up the milk can 
+add as much milk needed in the coffee mug
+put the milk can back in the fridge
+Enjoy the coffee */
